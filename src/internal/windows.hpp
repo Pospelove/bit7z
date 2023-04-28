@@ -14,7 +14,7 @@
 
 #ifndef _WIN32
 
-#include <Common/MyTypes.h>
+//#include <Common/MyTypes.h>
 
 /* Note: we must avoid including other headers of p7zip, like stdafx.h! */
 
